@@ -8,4 +8,6 @@ Tools Used are:
 NOTES: The criteria to be met for keyword selections are:
 - Search volume must be greater than or equal to 100 (depending on your needs)
 - You can choose a particular country or it can be a global search
-- The Competition level must be between Low or Medium
+- The Competition level must be between Low and Medium
+- The relevance must be Medium to High
+- There must be a steady growth increase (in percentage) of the keyword. 
